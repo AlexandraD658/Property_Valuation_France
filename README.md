@@ -1,8 +1,3 @@
----
-title: 'Demande de valeurs foncières'
-disqus: hackmd
----
-
 Demande de valeurs foncières
 ===
 ![downloads](https://img.shields.io/github/downloads/atom/atom/total.svg)
